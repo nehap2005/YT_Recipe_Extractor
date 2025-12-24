@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# ML / Models
+*.pt
+*.pth
+models/
+
+# Data
+data/
+*.mp4
+*.vtt
+frames/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Ollama
+.ollama/
+
+# VS Code
+.vscode/
